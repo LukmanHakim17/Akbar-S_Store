@@ -1,2 +1,2 @@
 # Akbar-S_Store
-developed Lukman Nulhakim
+developed By Lukman Nulhakim
