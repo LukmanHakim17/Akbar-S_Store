@@ -1,2 +1,2 @@
 # Akbar-S_Store
-develop Lukman Nulhakim
+developed Lukman Nulhakim
